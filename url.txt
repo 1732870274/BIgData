@@ -25,4 +25,6 @@ IDEA:
             <artifactId>hadoop-core</artifactId>
             <version>1.2.1</version>
       </dependency>
+  apache-hadoop-3.1.0-winutils：https://github.com/s911415/apache-hadoop-3.1.0-winutils
+  winutils提示缺少https://blog.csdn.net/hdp134793/article/details/88088667
   
