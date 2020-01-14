@@ -35,4 +35,7 @@
 >>[安装与部署](https://www.cnblogs.com/thisyan/p/9609497.html)</br>
 >>[FAILED: Execution Error, return code 2...](https://blog.csdn.net/qq_26442553/article/details/80143559)</br>
 >>[根据表中字段动态分区](https://www.cnblogs.com/jsnr-tdyd/p/9946788.html)</br>
->>[分桶](https://www.cnblogs.com/blogyuhan/p/9197976.html)</br>
+>>[分桶](https://www.cnblogs.com/blogyuhan/p/9197976.html)<br/>
+>>[查询非Group By字段](http://www.jwsblog.com/archives/54.html)<br/>
+>>[SQL中根据一张表的数据去掉另一张表的重复数据](https://blog.csdn.net/qq_22027637/article/details/80853540)<br/>
+>>[hive实现wordcount](https://www.cnblogs.com/walker-/p/11279810.html)
